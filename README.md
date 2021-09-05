@@ -1,6 +1,20 @@
-# FlashChat 
+# Flash Chat
+Using Flutter and Firebase for storing and authentication.
 
-# A Flutter application.
+## Tech Stack
+
+- Dart for front end
+- Firebase authentication
+
+## Screenshots
+
+![App Screenshot](https://github.com/anastazir/images/blob/master/flash-chat-app-1.jpeg?raw=true)
+
+![App Screenshot](https://github.com/anastazir/images/blob/master/flash-chat-app-2.jpeg?raw=true)
+
+![App Screenshot](https://github.com/anastazir/images/blob/master/flash-chat-app-3.jpeg?raw=true)
+
+
 
 ## Getting Started
 

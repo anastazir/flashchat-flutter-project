@@ -3,8 +3,12 @@ Using Flutter and Firebase for storing and authentication.
 
 ## Tech Stack
 
-- Dart for front end
-- Firebase authentication
+## Tech Stack
+
+[![Dart Badge](https://img.shields.io/badge/-dart-%230175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=)](#)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)](#)
+[![Firebase-UI Badge](https://img.shields.io/badge/-firebase-23039BE5?style=for-the-badge&labelColor=black&logo=firebase&logoColor=)](#)
+
 
 ## Screenshots
 
